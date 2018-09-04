@@ -1,2 +1,2 @@
 # multiplication-game
-Multiplication Game
+Multiplication Game - My holiday project!
